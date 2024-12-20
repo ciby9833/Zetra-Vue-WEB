@@ -1,0 +1,374 @@
+{
+  "home": {
+    "welcome": "Beranda",
+    "products": "Produk",
+    "support": "Dukungan",
+    "about": "Tentang Kami",
+    "search": "Cari",
+    "hero": {
+      "title": "Batas Bintang, Misteri Tanpa Akhir",
+      "description": "Kami berkomitmen untuk membawa rasa ingin tahu manusia menjelajahi alam semesta dan masa depan yang lebih jauh"
+    },
+    "section2": {
+      "title": "Mengemudi Otonom, Menjelajahi Masa Depan",
+      "description": "Untuk menciptakan masa depan yang berkelanjutan, kita harus mencapai transportasi yang berkelanjutan. Visi kami adalah menciptakan sistem transportasi inovatif yang lebih hemat energi, lebih aman, dan ramah lingkungan, dimulai dari hari ini dengan mengemudi otonom."
+    },
+    "section3": {
+      "header": {
+        "title": "Kami Menangani Aspek Profesional Ekspedisi & Layanan Pariwisata",
+        "description": "Secara kolaboratif memvisualisasikan rantai pasokan yang ramah pengguna dan lintas unit. Secara otoritatif menciptakan sumber daya dan solusi yang kompetitif."
+      },
+      "features": {
+        "reliability": "Keandalan",
+        "fleet_quality": "Kualitas Armada",
+        "safety_standards": "Standar Keamanan",
+        "cost_efficiency": "Efisiensi Biaya",
+        "support_team": "Tim Dukungan 24/7",
+        "coverage_area": "Area Cakupan"
+      }
+    }
+  },
+  "nav": {
+    "language": "Bahasa",
+    "warehouse": "Manajemen Gudang",
+    "scm": "Manajemen Rantai Pasok",
+    "aboutZetra": "Tentang Zetra",
+    "aboutUs": "Tentang Kami",
+    "products": "Logistik & Pengalaman Pelanggan"
+  },
+  "sitemap": {
+    "title": "Peta Situs",
+    "categories": {
+      "products": "Produk & Layanan",
+      "about": "Tentang",
+      "legal": "Hukum"
+    }
+  },
+  "support": {
+    "contactTitle": "Informasi Kontak",
+    "phone": "Telepon",
+    "whatsapp": "WhatsApp",
+    "email": "Email",
+    "officeLocation": "Lokasi Kantor",
+    "contactFormTitle": "Formulir Kontak",
+    "name": "Nama",
+    "message": "Pesan",
+    "submit": "Kirim",
+    "formSubmitted": "Pesan Anda telah berhasil dikirim!"
+  },
+  "footer": {
+    "product": "Produk",
+    "about": "Tentang",
+    "legal": "Hukum",
+    "warehouse": "Manajemen Gudang",
+    "scm": "Manajemen Rantai Pasok",
+    "logistics": "Solusi Logistik",
+    "aboutZetra": "Tentang Zetra",
+    "aboutUs": "Tentang Kami",
+    "privacy": "Kebijakan Privasi",
+    "terms": "Ketentuan Layanan",
+    "cookies": "Kebijakan Cookie",
+    "sitemap": "Peta Situs",
+    "services": "Layanan",
+    "copyright": " 2024 Zetra. Hak Cipta Dilindungi."
+  },
+  "privacy": {
+    "title": "Kebijakan Privasi",
+    "introduction": "Kebijakan privasi adalah pernyataan atau dokumen hukum yang mengungkapkan beberapa atau semua cara pihak mengumpulkan, menggunakan, mengungkapkan, dan mengelola data pelanggan.",
+    "history": {
+      "title": "Sejarah",
+      "content": "Pada tahun 1968, Dewan Eropa mulai mempelajari efek teknologi terhadap hak asasi manusia, mengenali ancaman baru dari teknologi komputer yang memungkinkan koneksi dan transmisi data dengan cara yang belum banyak digunakan sebelumnya."
+    },
+    "fairPractices": {
+      "title": "Praktik Informasi yang Adil",
+      "content": "Ada perbedaan signifikan antara hukum perlindungan data UE dan hukum privasi data AS. Tidak hanya bisnis yang beroperasi di UE harus memenuhi standar ini, tetapi setiap organisasi yang mentransfer informasi pribadi warga UE yang dikumpulkan juga harus memenuhi standar ini."
+    },
+    "enforcement": {
+      "title": "Penegakan Saat Ini",
+      "content": "Pada tahun 1995, Uni Eropa (UE) memperkenalkan Direktif Perlindungan Data untuk negara anggotanya. Akibatnya, banyak organisasi yang beroperasi di dalam UE mulai menyusun kebijakan untuk mematuhi Direktif ini."
+    },
+    "laws": {
+      "title": "Hukum yang Berlaku",
+      "us": {
+        "title": "Amerika Serikat",
+        "content": "Meskipun tidak ada hukum universal, beberapa hukum federal mengatur kebijakan privasi dalam keadaan tertentu, seperti COPPA untuk privasi anak-anak dan HIPAA untuk privasi perawatan kesehatan."
+      },
+      "eu": {
+        "title": "Uni Eropa",
+        "content": "Privasi adalah bidang hukum yang sangat berkembang di Eropa. Semua negara anggota UE juga merupakan penandatangan Konvensi Hak Asasi Manusia Eropa (ECHR)."
+      },
+      "other": {
+        "title": "Yurisdiksi Lain",
+        "content": "Banyak negara memiliki undang-undang dan pedoman privasi mereka sendiri yang menentukan siapa yang dilindungi, informasi apa yang dapat dikumpulkan, dan bagaimana informasi tersebut dapat digunakan."
+      }
+    }
+  },
+  "terms": {
+    "title": "Ketentuan Layanan Zetra",
+    "lastUpdated": "Terakhir Diperbarui: 2024",
+    "intro": "Selamat datang di Layanan Zetra! Sebelum Anda mulai menggunakan layanan kami, harap baca Ketentuan Layanan (\"Ketentuan\") ini dengan seksama. Ketentuan ini mengatur hubungan Anda dengan Zetra LLC (\"Zetra\" atau \"kami\") dan menjelaskan layanan kami, hak dan kewajiban Anda, serta aturan yang harus Anda ikuti saat menggunakan layanan kami.",
+    "sections": {
+      "content": {
+        "title": "1. Apa yang Dicakup Ketentuan Ini",
+        "text": "Kami memahami Anda mungkin ingin melewati ketentuan ini, tetapi memahaminya sangat penting. Saat menggunakan layanan Zetra, Anda perlu tahu apa yang kami sediakan dan apa yang kami harapkan dari Anda. Ketentuan ini membantu Anda memahami hubungan kita, termasuk namun tidak terbatas pada:\\n\\n• Layanan Kami: Bagaimana kami menyediakan dan mengembangkan layanan Zetra.\\n• Harapan Kami: Aturan yang harus Anda ikuti saat menggunakan layanan kami.\\n• Konten dalam Layanan Zetra: Hak kekayaan intelektual dalam layanan, termasuk hak yang dimiliki Anda, Zetra, atau pihak ketiga.\\n• Masalah atau Perselisihan: Hak hukum Anda dan konsekuensi melanggar Ketentuan ini.\\n\\nHarap perhatikan: Dengan mengakses atau menggunakan layanan kami, Anda menyetujui Ketentuan ini.\\n\\nSelain itu, Kebijakan Privasi Zetra (meskipun bukan bagian dari Ketentuan ini) menjelaskan secara rinci bagaimana kami mengelola, memperbarui, mengekspor, dan menghapus informasi Anda. Kami menyarankan Anda membacanya dengan seksama untuk lebih memahami bagaimana kami menangani privasi."
+      },
+      "provider": {
+        "title": "2. Penyedia Layanan",
+        "text": "Layanan Zetra disediakan oleh dan Ketentuan ini dibuat dengan:\\n\\nZetra LLC\\nDidirikan berdasarkan Hukum Federasi Universal dan beroperasi berdasarkan Hukum Uni Tata Surya.\\n\\nAlamat:\\n0001 Avenue of the Universe\\nSolar System Union Building\\n00000 Galaxy"
+      },
+      "age": {
+        "title": "3. Persyaratan Usia",
+        "text": "• Persyaratan usia untuk mengelola akun Zetra: Jika Anda belum mencapai usia legal untuk mengelola akun Zetra, Anda harus mendapatkan izin dari orang tua atau wali hukum untuk menggunakan layanan Zetra.\\n\\n• Tanggung jawab orang tua atau wali:\\n• Jika Anda adalah orang tua atau wali hukum dan mengizinkan anak Anda menggunakan layanan Zetra, Anda menyetujui Ketentuan ini dan menerima tanggung jawab penuh atas akun dan penggunaan anak Anda.\\n• Anda harus memastikan anak Anda memahami dan mematuhi Ketentuan ini.\\n\\nBeberapa layanan Zetra mungkin memiliki persyaratan usia tambahan; harap merujuk ke ketentuan dan kebijakan tambahan layanan yang berlaku."
+      },
+      "services": {
+        "title": "4. Layanan Kami",
+        "text": "Zetra berkomitmen untuk menyediakan layanan digital berkualitas tinggi dan terus mengoptimalkan dan mengembangkannya. Layanan kami mencakup namun tidak terbatas pada:\\n\\n• Akses ke informasi dan alat.\\n• Pengalaman yang dipersonalisasi dan rekomendasi cerdas.\\n• Pembaruan layanan dan peluncuran fitur baru.\\n\\nPengembangan dan Optimalisasi Layanan:\\nUntuk meningkatkan pengalaman pengguna, kami mungkin memperbarui atau memodifikasi fitur yang ada, meluncurkan layanan baru, atau menangguhkan layanan tertentu. Kami akan berusaha memberi tahu Anda tentang perubahan tersebut sebelumnya, meskipun hal ini mungkin tidak selalu memungkinkan."
+      },
+      "expectations": {
+        "title": "5. Harapan Kami dari Anda",
+        "text": "Untuk menjaga lingkungan layanan yang aman dan dapat diandalkan, Anda harus mengikuti aturan-aturan ini saat menggunakan layanan Zetra:\\n\\n• Penggunaan Legal: Jangan menggunakan layanan Zetra untuk aktivitas ilegal atau pelanggaran hukum dan peraturan yang berlaku.\\n\\n• Keamanan dan Perlindungan Akun:\\n• Lindungi informasi akun Anda dengan baik dan bertanggung jawab atas semua aktivitas akun.\\n• Jangan mengakses akun atau data orang lain tanpa izin.\\n\\n• Menghormati Hak Orang Lain:\\n• Jangan melanggar privasi, kekayaan intelektual, atau hak hukum lainnya dari orang lain.\\n• Jangan memposting konten ilegal, kasar, menyesatkan, atau berbahaya.\\n\\n• Penyalahgunaan Layanan yang Dilarang:\\n• Jangan mengganggu operasi normal layanan Zetra, termasuk namun tidak terbatas pada perusakan, serangan, penyalahgunaan, atau upaya membobol sistem keamanan.\\n\\nMelanggar aturan-aturan ini dapat mengakibatkan penangguhan atau penghentian akses layanan Anda."
+      },
+      "contentInZetra": {
+        "title": "6. Konten dalam Layanan Zetra",
+        "text": "Layanan Zetra mungkin berisi tiga jenis konten:\\n\\n• Konten Anda: Anda dapat mengunggah, mengirimkan, atau membagikan konten, dan Anda mempertahankan semua hak atas konten ini.\\n• Konten Zetra: Konten yang disediakan oleh Zetra dilindungi oleh hukum kekayaan intelektual, termasuk logo, merek, desain, dan teknologi kami.\\n• Konten Pihak Ketiga: Beberapa layanan mungkin mencakup konten yang disediakan oleh pihak ketiga (seperti tautan eksternal, sumber daya, dll.), yang menjadi tanggung jawab pihak ketiga tersebut.\\n\\nAnda tidak boleh menggunakan, menyalin, memodifikasi, mendistribusikan, atau mentransmisikan konten Zetra atau konten pihak ketiga tanpa izin."
+      },
+      "issues": {
+        "title": "7. Masalah atau Perselisihan",
+        "text": "Jika Anda memiliki pertanyaan tentang layanan Zetra atau Ketentuan ini, Anda dapat menghubungi kami melalui saluran dukungan resmi.\\n\\nKonsekuensi Pelanggaran Ketentuan:\\n• Jika Anda melanggar Ketentuan ini atau hukum yang berlaku, kami berhak menangguhkan atau menghentikan akses layanan Anda.\\n• Jika tindakan Anda menyebabkan kerusakan, Anda akan menanggung tanggung jawab hukum yang sesuai.\\n\\nHak Hukum Anda:\\nKetentuan ini tidak membatasi hak Anda berdasarkan hukum."
+      },
+      "changes": {
+        "title": "8. Perubahan Ketentuan",
+        "text": "Kami dapat memperbarui Ketentuan ini dari waktu ke waktu untuk mencerminkan perubahan dalam layanan atau persyaratan hukum. Ketika Ketentuan berubah, kami akan memberi tahu Anda sebelumnya dan memberikan waktu yang cukup untuk peninjauan.\\n\\nMelanjutkan penggunaan layanan kami menunjukkan penerimaan Anda terhadap Ketentuan yang diperbarui. Jika Anda tidak setuju dengan Ketentuan baru, Anda dapat berhenti menggunakan layanan Zetra."
+      },
+      "contact": {
+        "title": "9. Hubungi Kami",
+        "text": "Jika Anda memiliki pertanyaan, silakan hubungi kami di:\\n\\nZetra LLC\\nAlamat: 0001 Avenue of the Universe, Solar System Union Building 00000, Galaxy\\nEmail: support@zetra.example"
+      },
+      "other": {
+        "title": "10. Lainnya",
+        "text": "Jika ada bagian dari Ketentuan ini yang dianggap tidak valid atau tidak dapat diberlakukan, ketentuan lainnya akan tetap berlaku.\\n\\nTerima kasih telah membaca Ketentuan Layanan Zetra. Kami berharap dapat menciptakan pengalaman yang lebih baik bersama Anda!"
+      }
+    }
+  },
+  "cookie": {
+    "title": "Kebijakan Cookie Zetra",
+    "lastUpdate": "Terakhir Diperbarui: 2024",
+    "introduction": "Kebijakan Cookie ini menjelaskan bagaimana kami menggunakan cookie dan teknologi serupa saat Anda mengunjungi dan menggunakan layanan Zetra, serta bagaimana Anda dapat mengelola pengaturan ini. Harap baca kebijakan ini dengan seksama untuk memahami bagaimana kami menangani data Anda.",
+    "sections": {
+      "whatAreCookies": {
+        "title": "Apa itu Cookie?",
+        "text": "Cookie adalah file teks kecil yang disimpan di perangkat Anda (komputer, tablet, atau ponsel) saat Anda mengunjungi situs web atau menggunakan layanan online. File-file ini membantu kami mengidentifikasi perangkat Anda, mengingat preferensi Anda, dan meningkatkan pengalaman pengguna Anda.\n\nCookie digunakan untuk:\n\n• Mengingat status login dan preferensi Anda.\n• Menganalisis kinerja situs web dan perilaku pengunjung.\n• Menampilkan iklan dan konten yang lebih relevan untuk Anda."
+      },
+      "types": {
+        "title": "Jenis Cookie yang Kami Gunakan",
+        "text": "Pada layanan Zetra, kami menggunakan jenis-jenis cookie berikut:\n\nCookie yang Diperlukan\nCookie ini penting agar situs web dapat berfungsi dengan baik dan tidak dapat dinonaktifkan. Cookie ini memungkinkan Anda untuk masuk ke akun Anda, menjelajah dengan aman, dan menggunakan fitur-fitur utama.\n\nContoh penggunaan:\n• Mengingat informasi login Anda.\n• Melindungi keamanan akun dan mencegah akses tidak sah.\n\nCookie Kinerja\nCookie ini mengumpulkan informasi tentang bagaimana Anda menggunakan layanan kami, seperti halaman mana yang Anda kunjungi, berapa lama Anda tinggal, dan laporan kesalahan situs web. Data ini membantu kami mengoptimalkan pengalaman layanan.\n\nContoh penggunaan:\n• Menganalisis lalu lintas pengguna dan sumber lalu lintas.\n• Menguji fitur baru dan mengoptimalkan kinerja situs web.\n\nCookie Fungsional\nCookie ini mengingat pengaturan dan pilihan Anda di situs web, seperti preferensi bahasa atau konten yang dipersonalisasi, membantu kami memberikan pengalaman yang lebih baik kepada Anda.\n\nContoh penggunaan:\n• Mengingat pengaturan bahasa Anda.\n• Menyediakan antarmuka dan layanan yang dipersonalisasi untuk Anda.\n\nCookie Iklan\nCookie ini digunakan untuk menampilkan iklan dan konten yang relevan bagi Anda, membantu kami menyediakan layanan yang lebih baik berdasarkan minat dan perilaku penjelajahan Anda. Mereka juga membantu membatasi jumlah tampilan iklan dan mengukur efektivitas iklan.\n\nContoh penggunaan:\n• Menampilkan iklan yang lebih relevan untuk Anda.\n• Melacak impresi dan klik iklan."
+      },
+      "thirdParty": {
+        "title": "Cookie Pihak Ketiga",
+        "text": "Kami mungkin mengizinkan mitra (seperti penyedia layanan iklan dan analitik) untuk mengatur cookie saat Anda menggunakan layanan Zetra. Cookie pihak ketiga ini dikelola oleh penyedia layanan masing-masing dan mengikuti kebijakan privasi mereka.\n\nContoh:\n• Alat analitik (seperti Google Analytics): Digunakan untuk statistik dan menganalisis perilaku pengunjung.\n• Mitra iklan: Digunakan untuk menampilkan iklan yang ditargetkan kepada Anda."
+      },
+      "management": {
+        "title": "Bagaimana Mengelola Cookie?",
+        "text": "Anda dapat mengontrol dan mengelola cookie dengan cara berikut:\n\n1. Pengaturan Browser\nAnda dapat menyesuaikan pengaturan cookie di browser Anda, termasuk menolak, menghapus cookie yang ada, atau menerima pemberitahuan untuk cookie baru.\n• Chrome: Petunjuk pengaturan Cookie\n• Safari: Petunjuk pengaturan Cookie\n• Firefox: Petunjuk pengaturan Cookie\n\n2. Pop-up Cookie\nSaat pertama kali mengunjungi layanan Zetra, kami akan menampilkan pop-up cookie di mana Anda dapat memilih untuk menerima atau menyesuaikan preferensi cookie Anda.\n\n3. Alat Pihak Ketiga\nAnda juga dapat menggunakan alat pihak ketiga untuk mengelola cookie iklan dan alat analitik secara komprehensif.\n\nHarap diperhatikan: Menonaktifkan cookie tertentu dapat mempengaruhi operasi normal layanan Zetra dan membuat beberapa fitur tidak dapat digunakan."
+      },
+      "storage": {
+        "title": "Penyimpanan dan Durasi Cookie",
+        "text": "• Lokasi Penyimpanan: Data cookie disimpan di perangkat Anda.\n\n• Durasi Penyimpanan: Berbagai jenis cookie memiliki durasi penyimpanan yang berbeda, misalnya:\n• Cookie Sesi: Dihapus secara otomatis saat Anda menutup browser.\n• Cookie Persisten: Tetap ada untuk jangka waktu yang lebih lama, biasanya digunakan untuk mengingat preferensi Anda."
+      },
+      "updates": {
+        "title": "Pembaruan Kebijakan",
+        "text": "Kami dapat memperbarui Kebijakan Cookie ini dari waktu ke waktu untuk mencerminkan perubahan dalam layanan dan teknologi kami. Kebijakan yang diperbarui akan diposting di situs web Zetra, dan kami merekomendasikan untuk memeriksa kebijakan ini secara berkala."
+      },
+      "contact": {
+        "title": "Hubungi Kami",
+        "text": "Jika Anda memiliki pertanyaan tentang kebijakan ini atau penggunaan cookie kami, silakan hubungi kami di:\n\nZetra LLC\nAlamat: 0001 Avenue of the Universe, Solar System Union Building 00000, Galaxy\nEmail: support@zetra.example"
+      }
+    },
+    "conclusion": "Terima kasih telah membaca Kebijakan Cookie ini. Dengan menggunakan layanan Zetra, Anda menyetujui penggunaan cookie dan teknologi serupa kami sebagaimana dijelaskan dalam kebijakan ini."
+  },
+  "warehouse": {
+    "title": "Solusi Manajemen Gudang Pintar",
+    "subtitle": "Tingkatkan efisiensi gudang, optimalkan manajemen inventaris, wujudkan operasi cerdas",
+    "learnMore": "Pelajari Lebih Lanjut",
+    "features": {
+      "title": "Fitur Utama",
+      "inventory": {
+        "title": "Manajemen Inventaris Real-time",
+        "description": "Pelacakan inventaris akurat, peringatan pengisian otomatis, dan saran optimasi"
+      },
+      "analytics": {
+        "title": "Analisis Cerdas",
+        "description": "Peramalan permintaan berbasis AI, optimasi inventaris, dan analisis musiman"
+      },
+      "automation": {
+        "title": "Operasi Otomatis",
+        "description": "Sistem pengambilan robotik, penyortiran otomatis, dan manajemen rak pintar"
+      }
+    },
+    "benefits": {
+      "title": "Mengapa Memilih Solusi Kami",
+      "list": [
+        "Tingkatkan efisiensi operasional hingga 30%",
+        "Kurangi biaya tenaga kerja dan tingkat kesalahan",
+        "Sistem pemantauan dan peringatan real-time",
+        "Opsi kustomisasi yang fleksibel"
+      ]
+    },
+    "cta": {
+      "title": "Mulai Transformasi Digital",
+      "subtitle": "Hubungi tim ahli kami untuk solusi profesional",
+      "button": "Jadwalkan Demo"
+    }
+  },
+  "scm": {
+    "title": "Platform Manajemen Rantai Pasok Cerdas",
+    "subtitle": "Membangun Ekosistem Rantai Pasok yang Efisien, Transparan, dan Berkelanjutan",
+    "learnMore": "Pelajari Lebih Lanjut",
+    "features": {
+      "title": "Keunggulan Utama",
+      "visibility": {
+        "title": "Visibilitas End-to-End",
+        "description": "Pelacakan real-time komponen rantai pasok dengan wawasan data komprehensif dan sistem peringatan dini"
+      },
+      "optimization": {
+        "title": "Optimasi Cerdas",
+        "description": "Optimasi berbasis AI untuk inventaris, rute, dan alokasi sumber daya untuk mengurangi biaya operasional"
+      },
+      "collaboration": {
+        "title": "Platform Kolaboratif",
+        "description": "Integrasi mulus antara pemasok, logistik, dan operasi gudang"
+      },
+      "risk": {
+        "title": "Manajemen Risiko",
+        "description": "Prediksi dan kelola risiko rantai pasok untuk memastikan keberlangsungan bisnis"
+      }
+    },
+    "solutions": {
+      "title": "Solusi",
+      "planning": {
+        "title": "Perencanaan Rantai Pasok",
+        "description": "Peramalan permintaan terintegrasi, optimasi inventaris, dan perencanaan pengadaan"
+      },
+      "execution": {
+        "title": "Eksekusi Rantai Pasok",
+        "description": "Solusi terpadu untuk manajemen pesanan, transportasi, dan gudang"
+      },
+      "analytics": {
+        "title": "Analisis Data",
+        "description": "Analisis mendalam data rantai pasok yang memberikan wawasan yang dapat ditindaklanjuti"
+      }
+    },
+    "benefits": {
+      "title": "Nilai Bisnis",
+      "list": [
+        "Kurangi biaya inventaris sebesar 20-30%",
+        "Tingkatkan tingkat pemenuhan pesanan hingga 95%+",
+        "Minimalkan risiko gangguan rantai pasok",
+        "Optimalkan siklus arus kas"
+      ]
+    },
+    "cta": {
+      "title": "Mulai Transformasi Digital Anda",
+      "subtitle": "Hubungi kami untuk mendiskusikan solusi yang disesuaikan dengan bisnis Anda",
+      "button": "Jadwalkan Konsultasi"
+    }
+  },
+  "about_zetra": {
+    "hero": {
+      "title": "Pemimpin Inovasi dalam Logistik Cerdas",
+      "subtitle": "Membentuk Ulang Industri Logistik melalui Teknologi, Membangun Ekosistem Rantai Pasokan Cerdas Baru"
+    },
+    "intro": {
+      "title": "Tentang Zetra",
+      "description": "Zetra adalah perusahaan inovasi teknologi yang fokus pada solusi logistik cerdas. Kami memanfaatkan teknologi kecerdasan buatan, IoT, dan big data untuk menyediakan layanan logistik cerdas end-to-end. Sejak didirikan pada tahun 2020, kami berkomitmen untuk mendorong transformasi digital industri logistik, membantu perusahaan membangun sistem rantai pasokan yang lebih efisien dan cerdas."
+    },
+    "mission": {
+      "title": "Misi Kami",
+      "description": "Mendorong peningkatan cerdas industri logistik melalui inovasi teknologi terdepan, menciptakan nilai bisnis yang berkelanjutan bagi pelanggan, dan mencapai peningkatan signifikan dalam efisiensi operasional logistik."
+    },
+    "vision": {
+      "title": "Visi Kami",
+      "description": "Menjadi pemimpin global dalam layanan teknologi logistik cerdas, memimpin industri logistik ke era kecerdasan baru."
+    },
+    "values": {
+      "title": "Nilai Inti",
+      "items": [
+        {
+          "title": "Inovasi Teknologi",
+          "description": "Investasi berkelanjutan dalam R&D, memimpin garis depan teknologi logistik"
+        },
+        {
+          "title": "Nilai Pelanggan",
+          "description": "Pendekatan berorientasi pelanggan, memberikan keunggulan dalam layanan logistik cerdas"
+        },
+        {
+          "title": "Kesuksesan Kolaboratif",
+          "description": "Bermitra untuk membangun ekosistem logistik cerdas bersama"
+        },
+        {
+          "title": "Pembangunan Hijau",
+          "description": "Mempromosikan pembangunan cerdas dan berkelanjutan untuk transformasi logistik hijau"
+        }
+      ]
+    },
+    "solutions": {
+      "title": "Solusi Cerdas",
+      "description": "Menyediakan solusi logistik cerdas yang komprehensif untuk memungkinkan transformasi digital perusahaan",
+      "items": [
+        {
+          "title": "Platform Manajemen Rantai Pasokan Cerdas",
+          "description": "Mengintegrasikan peramalan AI, penjadwalan cerdas, dan optimasi inventaris untuk visibilitas rantai pasokan end-to-end"
+        },
+        {
+          "title": "Sistem Gudang Cerdas",
+          "description": "Menggabungkan robotika dan algoritma cerdas untuk operasi gudang otomatis yang efisien"
+        },
+        {
+          "title": "Distribusi Logistik Cerdas",
+          "description": "Memanfaatkan analitik big data dan perencanaan rute AI untuk efisiensi pengiriman yang optimal"
+        }
+      ]
+    },
+    "stats": {
+      "title": "Pencapaian",
+      "items": [
+        {
+          "number": "200+",
+          "label": "Klien Perusahaan Dilayani"
+        },
+        {
+          "number": "45%",
+          "label": "Peningkatan Efisiensi Rata-rata"
+        },
+        {
+          "number": "18+",
+          "label": "Negara di Seluruh Dunia"
+        }
+      ]
+    },
+    "future": {
+      "title": "Melihat ke Depan",
+      "description": "Zetra akan terus memperdalam fokusnya di bidang logistik cerdas, meningkatkan investasi dalam teknologi terdepan seperti kecerdasan buatan, robotika, dan IoT. Kami berkomitmen untuk membangun ekosistem logistik yang lebih cerdas dan efisien, mendorong industri menuju digitalisasi dan kecerdasan. Melalui inovasi teknologi dan peningkatan layanan, kami membantu lebih banyak perusahaan mencapai transformasi logistik cerdas dan bersama-sama menciptakan masa depan cerdas untuk industri logistik."
+    }
+  },
+  "CarouselHome":{
+    "slides": {
+      "lsm": {
+        "title": "Melepaskan Kekuatan Keputusan Berbasis Data",
+        "description": "Ubah data mentah menjadi strategi yang berarti dan dorong pertumbuhan bisnis dengan percaya diri."
+      },
+      "ls1": {
+        "title": "Solusi Logistik Cerdas",
+        "description": "Menyediakan solusi logistik yang efisien dan cerdas dengan pelacakan real-time, visualisasi data, dan optimalisasi ujung ke ujung untuk mempercepat efisiensi pengiriman."
+      },
+      "scm1": {
+        "title": "Manajemen Rantai Pasokan Cerdas",
+        "description": "Mencapai koordinasi yang efisien dari logistik, pergudangan, dan transportasi, pelacakan visualisasi real-time, dan membantu bisnis mengoptimalkan proses rantai pasokan untuk meningkatkan efisiensi operasional secara keseluruhan."
+      },
+      "wh1": {
+        "title": "Solusi Manajemen Gudang yang Efisien",
+        "description": "Menyediakan manajemen gudang yang cerdas, mengoptimalkan pemanfaatan ruang, memvisualisasikan inventaris real-time, meningkatkan efisiensi operasi gudang, dan membantu bisnis mengurangi biaya serta meningkatkan efisiensi."
+      }
+    }
+  }
+}

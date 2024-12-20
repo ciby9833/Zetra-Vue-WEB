@@ -1,0 +1,23 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- 外圈：橙色圆环 -->
+  <path d="M100 190C149.706 190 190 149.706 190 100C190 50.2944 149.706 10 100 10C50.2944 10 10 50.2944 10 100C10 149.706 50.2944 190 100 190Z" 
+        stroke="#FF9800" stroke-width="14"/>
+  
+  <!-- 内圆：白色填充 -->
+  <path d="M100 165C135.899 165 165 135.899 165 100C165 64.1015 135.899 35 100 35C64.1015 35 35 64.1015 35 100C35 135.899 64.1015 165 100 165Z" 
+        fill="white"/>
+
+  <!-- 进一步放大的风筝主体 -->
+  <path d="M100 40L135 90L100 140L65 90L100 40Z" 
+        fill="#FF9800" stroke="#333333" stroke-width="2"/>
+  
+  <!-- 风筝线 -->
+  <path d="M100 140C92 155 82 165 70 172C60 178 52 182 50 185" 
+        stroke="#333333" stroke-width="2"/>
+
+  <!-- 风筝尾巴装饰 -->
+  <path d="M70 172L65 179" stroke="#FF9800" stroke-width="2"/>
+  <path d="M70 172L75 179" stroke="#FF9800" stroke-width="2"/>
+  <path d="M50 185L45 192" stroke="#FF9800" stroke-width="2"/>
+  <path d="M50 185L55 192" stroke="#FF9800" stroke-width="2"/>
+</svg>

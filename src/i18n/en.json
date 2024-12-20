@@ -1,0 +1,585 @@
+{
+  "home": {
+    "welcome": "Home",
+    "products": "Products",
+    "support": "Support",
+    "about": "Who We Are",
+    "search": "Search",
+    "warehouse": "Warehouse Management",
+    "scm": "Supply Chain Management",
+    "aboutZetra": "About Zetra",
+    "aboutUs": "About Us",
+    "hero": {
+      "title": "Bound by Stars, Embracing the Unknown",
+      "description": "We are committed to taking human curiosity to explore the farthest reaches of the universe and the future"
+    },
+    "solutions": {
+      "title": "Our Solutions",
+      "subtitle": "Comprehensive tools to streamline your logistics operations",
+      "wms": {
+        "title": "Warehouse Management",
+        "description": "Optimize warehouse operations with real-time inventory tracking, automated workflows, and intelligent space utilization.",
+        "cta": "Explore WMS"
+      },
+      "scm": {
+        "title": "Supply Chain Management",
+        "description": "End-to-end visibility and control over your supply chain with predictive analytics and smart automation.",
+        "cta": "Discover SCM"
+      },
+      "crm": {
+        "title": "Customer Experience",
+        "description": "Enhance customer satisfaction with order tracking, communication tools, and delivery management.",
+        "cta": "Learn about CRM"
+      }
+    },
+    "features": {
+      "tracking": {
+        "title": "Real-time Tracking",
+        "description": "Monitor your logistics operations in real-time with detailed tracking and status updates"
+      },
+      "analytics": {
+        "title": "Smart Analytics",
+        "description": "Make data-driven decisions with comprehensive analytics and reporting tools"
+      },
+      "integration": {
+        "title": "Seamless Integration",
+        "description": "Easy integration with your existing systems and third-party applications"
+      },
+      "security": {
+        "title": "Enterprise Security",
+        "description": "Advanced security measures to protect your data and operations"
+      }
+    },
+    "cases": {
+      "title": "Success Stories",
+      "subtitle": "See how our solutions are transforming businesses worldwide"
+    },
+    "section2": {
+      "slides": [
+        {
+          "title": "Autonomous Driving, Exploring the Future",
+          "description": "We are leading the development of next-generation transportation technology."
+        },
+        {
+          "title": "Innovative Technology, Changing Lives",
+          "description": "Building a more efficient and sustainable world with advanced solutions."
+        },
+        {
+          "title": "Intelligent Management, Optimizing Logistics",
+          "description": "Creating an intelligent transportation network for an ultimate customer experience."
+        }
+      ]
+    },
+    "section3": {
+      "header": {
+        "title": "We Deal With The Aspects Professional of Expedition & Tourism Services",
+        "description": "Collaboratively envision user-friendly supply chains and cross-unit imperative. Authoritatively fabricate competitive resources and holistic."
+      },
+      "features": {
+        "reliability": "Reliability",
+        "fleet_quality": "Fleet Quality",
+        "safety_standards": "Safety Standards",
+        "cost_efficiency": "Cost Efficiency",
+        "support_team": "24/7 Support Team",
+        "coverage_area": "Coverage Area"
+      }
+    }
+  },
+  "support": {
+    "contactTitle": "Contact Information",
+    "phone": "Phone",
+    "whatsapp": "WhatsApp",
+    "email": "Email",
+    "officeLocation": "Office Location",
+    "contactFormTitle": "Contact Form",
+    "name": "Name",
+    "message": "Message",
+    "submit": "Submit",
+    "formSubmitted": "Your message has been submitted successfully!"
+  },
+  "nav": {
+    "language": "Language",
+    "warehouse": "Warehouse Management",
+    "scm": "Supply Chain Management",
+    "aboutZetra": "About Zetra",
+    "aboutUs": "About Us",
+    "products": "Logistics & Customer Experience"
+  },
+  "sitemap": {
+    "title": "Site Map",
+    "categories": {
+      "products": "Products & Services",
+      "about": "About",
+      "legal": "Legal"
+    }
+  },
+  "products": {
+    "title": "Our Supply Chain",
+    "description": "Driving innovation and sustainability through every part of our supply chain.",
+    "section1": {
+      "title": "Environmentally Friendly",
+      "description": "We are committed to reducing environmental impact at every stage of our supply chain."
+    },
+    "section2": {
+      "title": "Supply Chain Innovation",
+      "description": "Leveraging cutting-edge technology to ensure efficiency and transparency."
+    },
+    "section3": {
+      "title": "Global Impact",
+      "description": "Working with partners across the globe to create lasting, positive change."
+    },
+    "footer": "Discover how we are shaping a sustainable future."
+  },
+  "scm": {
+    "title": "Smart Supply Chain Management Solution",
+    "subtitle": "Streamline Supply Chain Processes, Enhance Efficiency, Enable Digital Transformation",
+    "intro": "In the era of globalization and digitalization, supply chain management faces increasing challenges. Our supply chain management solution integrates procurement, production, transportation, warehousing, and distribution through data-driven optimization and intelligent collaboration, helping enterprises achieve efficient coordination and precise control while building an agile, transparent, and sustainable supply chain ecosystem.",
+    "coreFunctions": {
+      "title": "Core Function Modules",
+      "visualization": {
+        "title": "End-to-End Visualization",
+        "desc1": "Enable real-time visibility across the entire supply chain, providing transparent monitoring from order generation to final delivery.",
+        "desc2": "Enhance decision-making efficiency and accuracy through visual dashboards and real-time data analytics."
+      },
+      "inventory": {
+        "title": "Intelligent Inventory Optimization",
+        "desc1": "Precisely forecast inventory needs using AI prediction analysis and historical data, automatically optimize replenishment and allocation strategies.",
+        "desc2": "Support multi-warehouse coordination, reduce inventory backlog and stockout risks, ensure smooth supply chain operations."
+      },
+      "supplier": {
+        "title": "Supplier and Procurement Management",
+        "desc1": "Support supplier rating and management, achieve efficient integration and collaboration of supplier resources.",
+        "desc2": "Optimize procurement strategies, reduce costs through data analysis, enhance supply chain resilience."
+      },
+      "transport": {
+        "title": "Transportation and Distribution Management",
+        "desc1": "Provide transport scheduling optimization, route planning, and real-time tracking to reduce costs and improve on-time delivery rates.",
+        "desc2": "Integrate multiple logistics resources, support various transportation modes, achieve efficient end-to-end distribution control."
+      },
+      "intelligence": {
+        "title": "Data-Driven Decision Support",
+        "desc1": "Provide supply chain demand forecasting and risk warning based on big data and artificial intelligence.",
+        "desc2": "Help enterprises optimize resource allocation, reduce operational costs, improve supply chain responsiveness and stability."
+      },
+      "collaboration": {
+        "title": "Supply Chain Collaboration Platform",
+        "desc1": "Create a collaborative management platform for enterprises, suppliers, logistics providers, and customers, enabling information sharing and process automation.",
+        "desc2": "Support real-time interaction among multiple parties, quickly respond to supply chain anomalies."
+      }
+    },
+    "advantages": {
+      "title": "Solution Advantages",
+      "integration": {
+        "title": "End-to-End Supply Chain Integration",
+        "desc": "Cover full-process management from procurement to distribution, achieving supply chain integration."
+      },
+      "data": {
+        "title": "Data-Driven Decision Making",
+        "desc": "Optimize supply chain processes through big data and AI analysis, enhance management decision accuracy."
+      },
+      "scalable": {
+        "title": "Flexible and Scalable",
+        "desc": "Support multi-scenario, multi-scale enterprise needs, adaptable to complex supply chain changes."
+      },
+      "efficiency": {
+        "title": "Cost Reduction and Efficiency",
+        "desc": "Optimize inventory and logistics scheduling, reduce operational costs, improve resource utilization."
+      },
+      "monitoring": {
+        "title": "Real-time Monitoring and Alerts",
+        "desc": "Provide supply chain visualization and intelligent alerts, quickly respond to risks and anomalies."
+      }
+    },
+    "scenarios": {
+      "title": "Application Scenarios",
+      "manufacturing": "Manufacturing Supply Chain: Optimize raw material procurement, production planning, and logistics.",
+      "retail": "Retail and E-commerce: Enable multi-warehouse coordination, dynamic inventory adjustment, and precise distribution.",
+      "medical": "Medical and Cold Chain: Ensure end-to-end supply chain control, achieve efficient management and safe distribution.",
+      "fmcg": "FMCG Industry: Forecast demand through data analysis, optimize supply chain operations."
+    },
+    "cta": {
+      "slogan": "Reshape Supply Chain Management for Higher Efficiency!",
+      "action": "Contact us to customize your smart supply chain solution and drive digital transformation and business growth."
+    }
+  },
+  "footer": {
+    "product": "Product",
+    "about": "About",
+    "legal": "Legal",
+    "services": "Services",
+    "warehouse": "Warehouse Management",
+    "scm": "Supply Chain Management",
+    "logistics": "Logistics Solutions",
+    "aboutZetra": "About Zetra",
+    "aboutUs": "About Us",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Policy",
+    "sitemap": "Sitemap",
+    "copyright": " 2024 Zetra. All rights reserved."
+  },
+  "terms": {
+    "title": "Zetra Terms of Service",
+    "lastUpdated": "Last Updated: 2024",
+    "intro": "Welcome to Zetra Services! Before you start using our services, please carefully read these Terms of Service (\"Terms\"). These Terms govern your relationship with Zetra LLC (\"Zetra\" or \"we\") and detail our services, your rights and obligations, and the rules you need to follow when using our services.",
+    "sections": {
+      "content": {
+        "title": "1. What These Terms Cover",
+        "text": "We understand you might want to skip these terms, but understanding them is crucial. When using Zetra services, you need to know what we provide and what we expect from you. These Terms help you understand our relationship, including but not limited to:\\n\\n• Our Services: How we provide and develop Zetra services.\\n• Our Expectations: Rules you must follow when using our services.\\n• Content in Zetra Services: Intellectual property rights in the services, including rights belonging to you, Zetra, or third parties.\\n• Issues or Disputes: Your legal rights and consequences of violating these Terms.\\n\\nPlease note: By accessing or using our services, you agree to these Terms.\\n\\nAdditionally, the Zetra Privacy Policy (while not part of these Terms) details how we manage, update, export, and delete your information. We recommend reading it carefully to better understand how we handle privacy."
+      },
+      "provider": {
+        "title": "2. Service Provider",
+        "text": "Zetra services are provided by and these Terms are entered into with:\\n\\nZetra LLC\\nEstablished under Universal Federation Law and operating under Solar System Union Law.\\n\\nAddress:\\n0001 Avenue of the Universe\\nSolar System Union Building\\n00000 Galaxy"
+      },
+      "age": {
+        "title": "3. Age Requirements",
+        "text": "• Age requirement for managing Zetra accounts: If you haven't reached the legal age to manage a Zetra account, you must obtain permission from a parent or legal guardian to use Zetra services.\\n\\n• Parent or guardian responsibilities:\\n• If you're a parent or legal guardian and allow your child to use Zetra services, you agree to these Terms and accept full responsibility for your child's account and usage.\\n• You must ensure your child understands and follows these Terms.\\n\\nSome Zetra services may have additional age requirements; please refer to the applicable service's additional terms and policies."
+      },
+      "services": {
+        "title": "4. Our Services",
+        "text": "Zetra is committed to providing high-quality digital services and continuously optimizing and developing them. Our services include but are not limited to:\\n\\n• Access to information and tools.\\n• Personalized experiences and intelligent recommendations.\\n• Service updates and new feature releases.\\n\\nService Development and Optimization:\\nTo improve user experience, we may update or modify existing features, launch new services, or suspend certain services. We will try to notify you of such changes in advance, though this may not always be possible."
+      },
+      "expectations": {
+        "title": "5. Our Expectations of You",
+        "text": "To maintain a safe and reliable service environment, you must follow these rules when using Zetra services:\\n\\n• Legal Use: Do not use Zetra services for any illegal activities or violations of applicable laws and regulations.\\n\\n• Security and Account Protection:\\n• Properly safeguard your account information and be responsible for all account activities.\\n• Do not access others' accounts or data without authorization.\\n\\n• Respect Others' Rights:\\n• Do not violate others' privacy, intellectual property, or other legal rights.\\n• Do not post illegal, abusive, misleading, or harmful content.\\n\\n• Prohibited Service Abuse:\\n• Do not interfere with Zetra services' normal operation, including but not limited to destruction, attacks, abuse, or attempts to bypass security systems.\\n\\nViolating these rules may result in suspension or termination of your service access."
+      },
+      "contentInZetra": {
+        "title": "6. Content in Zetra Services",
+        "text": "Zetra services may contain three types of content:\\n\\n• Your Content: You can upload, submit, or share content, and you retain all rights to this content.\\n• Zetra Content: Content provided by Zetra is protected by intellectual property laws, including our logos, brands, designs, and technology.\\n• Third-Party Content: Some services may include content provided by third parties (such as external links, resources, etc.), which is the responsibility of those third parties.\\n\\nYou may not use, copy, modify, distribute, or transmit Zetra content or third-party content without authorization."
+      },
+      "issues": {
+        "title": "7. Issues or Disputes",
+        "text": "If you have questions about Zetra services or these Terms, you can contact us through official support channels.\\n\\nConsequences of Terms Violation:\\n• If you violate these Terms or applicable laws, we reserve the right to suspend or terminate your service access.\\n• If your actions cause damage, you will bear the corresponding legal responsibility.\\n\\nYour Legal Rights:\\nThese Terms do not limit your rights under the law."
+      },
+      "changes": {
+        "title": "8. Changes to Terms",
+        "text": "We may update these Terms from time to time to reflect changes in services or legal requirements. When Terms change, we will notify you in advance and provide adequate time for review.\\n\\nContinuing to use our services indicates your acceptance of the updated Terms. If you disagree with the new Terms, you may stop using Zetra services."
+      },
+      "contact": {
+        "title": "9. Contact Us",
+        "text": "If you have any questions, please contact us at:\\n\\nZetra LLC\\nAddress: 0001 Avenue of the Universe, Solar System Union Building 00000, Galaxy\\nEmail: support@zetra.example"
+      },
+      "other": {
+        "title": "10. Other",
+        "text": "If any part of these Terms is found to be invalid or unenforceable, the remaining terms will remain in effect.\\n\\nThank you for reading the Zetra Terms of Service. We look forward to creating better experiences with you!"
+      }
+    }
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "introduction": "A privacy policy is a statement or legal document that discloses some or all of the ways a party gathers, uses, discloses, and manages a customer's data.",
+    "history": {
+      "title": "History",
+      "content": "In 1968, the Council of Europe began to study the effects of technology on human rights, recognizing new threats from computer technology that enabled the connection and transmission of data in ways not widely used before."
+    },
+    "fairPractices": {
+      "title": "Fair Information Practices",
+      "content": "There are significant differences between EU data protection law and US data privacy law. Not only must businesses operating in the EU meet these standards, but any organization that transfers collected personal information of EU citizens must also meet these standards."
+    },
+    "enforcement": {
+      "title": "Current Enforcement",
+      "content": "In 1995, the European Union (EU) introduced the Data Protection Directive for its member states. As a result, many organizations operating within the EU began drafting policies to comply with this Directive."
+    },
+    "laws": {
+      "title": "Applicable Laws",
+      "us": {
+        "title": "United States",
+        "content": "While there is no universal law, several federal laws govern privacy policies in specific circumstances, such as COPPA for children's privacy and HIPAA for healthcare privacy."
+      },
+      "eu": {
+        "title": "European Union",
+        "content": "Privacy is a highly developed area of European law. All EU member states are also signatories of the European Convention on Human Rights (ECHR)."
+      },
+      "other": {
+        "title": "Other Jurisdictions",
+        "content": "Many countries have their own privacy laws and guidelines specifying who is protected, what information can be collected, and how that information can be used."
+      }
+    }
+  },
+  "cookie": {
+    "title": "Zetra Cookie Policy",
+    "lastUpdate": "Last Updated: 2024",
+    "introduction": "This Cookie Policy explains how we use cookies and similar technologies when you visit and use Zetra services, and how you can manage these settings. Please read this policy carefully to understand how we handle your data.",
+    "sections": {
+      "whatAreCookies": {
+        "title": "What are Cookies?",
+        "text": "Cookies are small text files that are stored on your device (computer, tablet, or mobile phone) when you visit websites or use online services. These files help us identify your device, remember your preferences, and improve your user experience.\n\nCookies are used for:\n\n• Remembering your login status and preferences.\n• Analyzing website performance and user behavior to improve services.\n• Showing you more relevant advertisements and content."
+      },
+      "types": {
+        "title": "Types of Cookies We Use",
+        "text": "On Zetra services, we use the following types of cookies:\n\nNecessary Cookies\nThese cookies are essential for the website to function properly and cannot be turned off. They enable you to log into your account, browse securely, and use core features.\n\nExample uses:\n• Remember your login information.\n• Protect account security and prevent unauthorized access.\n\nPerformance Cookies\nThese cookies collect information about how you use our services, such as which pages you visit, how long you stay, and website error reports. This data helps us optimize the service experience.\n\nExample uses:\n• Analyze user traffic and traffic sources.\n• Test new features and optimize website performance.\n\nFunctional Cookies\nThese cookies remember your settings and choices on the website, such as language preferences or personalized content, helping us provide you with a better experience.\n\nExample uses:\n• Remember your language settings.\n• Provide you with personalized interface and services.\n\nAdvertising Cookies\nThese cookies are used to show you relevant advertisements and content, helping us provide better services based on your interests and browsing behavior. They also help limit the number of times you see an ad and measure advertising effectiveness.\n\nExample uses:\n• Show you more relevant advertisements.\n• Track ad impressions and clicks."
+      },
+      "thirdParty": {
+        "title": "Third-Party Cookies",
+        "text": "We may allow partners (such as advertising and analytics service providers) to set cookies when you use Zetra services. These third-party cookies are managed by the respective service providers and follow their privacy policies.\n\nExamples:\n• Analytics tools (like Google Analytics): Used for statistics and analyzing visitor behavior.\n• Advertising partners: Used to show you targeted advertisements."
+      },
+      "management": {
+        "title": "How to Manage Cookies?",
+        "text": "You can control and manage cookies in the following ways:\n\n1. Browser Settings\nYou can adjust cookie settings in your browser, including rejecting, deleting existing cookies, or receiving notifications for new cookies.\n• Chrome: Cookie settings instructions\n• Safari: Cookie settings instructions\n• Firefox: Cookie settings instructions\n\n2. Cookie Pop-up\nWhen you first visit Zetra services, we'll show you a cookie pop-up where you can choose to accept or customize your cookie preferences.\n\n3. Third-Party Tools\nYou can also use third-party tools to comprehensively manage advertising cookies and analytics tools.\n\nPlease note: Disabling certain cookies may affect the normal operation of Zetra services and make some features unusable."
+      },
+      "storage": {
+        "title": "Cookie Storage and Duration",
+        "text": "• Storage Location: Cookie data is stored on your device.\n\n• Storage Duration: Different types of cookies have different storage durations, for example:\n• Session Cookies: Automatically deleted when you close your browser.\n• Persistent Cookies: Remain for a longer period, typically used to remember your preferences."
+      },
+      "updates": {
+        "title": "Policy Updates",
+        "text": "We may update this Cookie Policy from time to time to reflect changes in our services and technologies. The updated policy will be posted on the Zetra website, and we recommend checking this policy periodically."
+      },
+      "contact": {
+        "title": "Contact Us",
+        "text": "If you have any questions about this policy or our use of cookies, please contact us at:\n\nZetra LLC\nAddress: 0001 Avenue of the Universe, Solar System Union Building 00000, Galaxy\nEmail: support@zetra.example"
+      }
+    },
+    "conclusion": "Thank you for reading this Cookie Policy. By using Zetra services, you agree to our use of cookies and similar technologies as described in this policy."
+  },
+  "warehouse": {
+    "title": "Intelligent Warehouse Management Solution",
+    "subtitle": "Efficient Collaboration, Precise Control, Empowering Warehouse Management into a New Intelligent Era",
+    "intro": "In the modern logistics industry, warehouse management is a key link in improving operational efficiency. Our intelligent warehouse management solution achieves intelligent, visualized, and efficient collaboration of warehouse operations through advanced technology and data-driven approaches, helping enterprises optimize inventory management, shorten goods turnover cycles, and create a new intelligent logistics experience.",
+    "coreFunctions": {
+      "title": "Core Function Modules",
+      "sorting": {
+        "title": "Intelligent Goods Sorting and Storage",
+        "desc1": "Combine AI algorithms with automatic sorting systems for rapid goods storage, classification, and positioning.",
+        "desc2": "Dynamically adjust shelf space, optimize storage layout, and improve warehouse utilization."
+      },
+      "visualization": {
+        "title": "Real-time Data Visualization",
+        "desc1": "Present real-time status and location of goods through digital twin technology.",
+        "desc2": "Warehouse data at a glance, supporting visual operation and decision analysis."
+      },
+      "automation": {
+        "title": "Automated Operation Process",
+        "desc1": "Unmanned forklifts, robot scheduling, and automated transmission systems reduce manual dependence for efficient operations.",
+        "desc2": "Support multi-platform collaboration and process automation for seamless integration."
+      },
+      "inventory": {
+        "title": "Precise Inventory Management",
+        "desc1": "Real-time monitoring of inventory data, intelligent analysis of replenishment needs, reducing inventory backlog risk.",
+        "desc2": "Support multi-warehouse linkage and multi-scenario inventory optimization to maximize goods turnover efficiency."
+      },
+      "intelligence": {
+        "title": "Intelligent Warning and Decision Support",
+        "desc1": "Automatically identify abnormal situations (such as inventory warnings, order delays) and quickly provide solutions.",
+        "desc2": "Optimize storage strategies based on historical data and AI analysis to assist management decisions."
+      }
+    },
+    "advantages": {
+      "title": "Product Advantages",
+      "operation": {
+        "title": "Intelligent Operation",
+        "desc": "Combine AI and automated equipment to improve operation speed and accuracy."
+      },
+      "data": {
+        "title": "Data Driven",
+        "desc": "Real-time data collection and analysis for efficient decision-making and precise management."
+      },
+      "scalable": {
+        "title": "Flexible and Scalable",
+        "desc": "Support various warehouse scales and scenarios, easily adapting to enterprise development needs."
+      },
+      "cost": {
+        "title": "Cost Reduction",
+        "desc": "Optimize human resources and space utilization to comprehensively reduce operating costs."
+      },
+      "efficiency": {
+        "title": "Efficiency Improvement",
+        "desc": "Process automation and intelligent scheduling to comprehensively improve warehouse turnover efficiency."
+      }
+    },
+    "scenarios": {
+      "title": "Application Scenarios",
+      "ecommerce": "E-commerce Warehouse Management",
+      "coldChain": "Cold Chain Warehouse and Food Logistics",
+      "retail": "Retail and Wholesale Supply Chain",
+      "medical": "Medical and High-value Items Storage",
+      "distributed": "Multi-warehouse Collaboration and Distributed Storage"
+    },
+    "cta": {
+      "slogan": "Intelligent warehousing makes logistics more efficient!",
+      "action": "Contact us to customize your intelligent warehouse management solution and jointly open a new era of intelligent logistics."
+    }
+  },
+  "logistics": {
+    "title": "Intelligent Logistics Solution",
+    "subtitle": "Optimize Logistics Operations Comprehensively, Build Efficient, Secure, and Smart Logistics Management System",
+    "intro": "The rapid development of the logistics industry brings increasingly complex challenges: how to shorten transportation time, optimize resource allocation, and improve service quality? Our intelligent logistics solution, driven by technology at its core, integrates transportation, warehousing, and distribution services across the entire chain, providing efficient, transparent, real-time visible, and intelligent collaborative logistics management model, helping enterprises respond to changing market demands and achieve efficient operations.",
+    "coreFunctions": {
+      "title": "Core Function Modules",
+      "tms": {
+        "title": "Transportation Management System (TMS)",
+        "desc1": "Achieve end-to-end management from transport scheduling and route optimization to vehicle monitoring.",
+        "desc2": "Intelligent route planning based on real-time data, reducing transportation costs and improving on-time delivery rates.",
+        "desc3": "Support multiple transport mode integration, adapting to various scenarios including land, sea, and air transport."
+      },
+      "wms": {
+        "title": "Warehouse Management System (WMS)",
+        "desc1": "Precise inventory management, dynamic storage space optimization, reducing inventory backlog.",
+        "desc2": "Support automated warehouse equipment integration, achieving intelligent operations for goods sorting, inbound, and outbound processes.",
+        "desc3": "Visualize inventory status, real-time control of goods flow and location."
+      },
+      "delivery": {
+        "title": "Delivery Management System",
+        "desc1": "Intelligent delivery planning, supporting last-mile delivery optimization.",
+        "desc2": "Real-time cargo tracking, enhancing customer experience.",
+        "desc3": "Quick response to delivery needs, ensuring timely order completion."
+      },
+      "analytics": {
+        "title": "Data Analytics and Visualization",
+        "desc1": "Real-time collection of logistics chain data, presenting operational KPIs through visual dashboards.",
+        "desc2": "Based on big data and AI analysis, providing transport efficiency analysis, inventory forecasting, and risk warnings for scientific decision-making.",
+        "desc3": "Full traceability, ensuring transparency and reliability of logistics services."
+      },
+      "collaboration": {
+        "title": "Logistics Collaboration and Integration",
+        "desc1": "Connect upstream and downstream logistics links, achieving multi-party collaboration and information sharing.",
+        "desc2": "Support seamless integration of supply chain, warehousing, and transporters, improving full-chain operational efficiency.",
+        "desc3": "Quickly respond to changing market demands, enhancing supply chain resilience."
+      }
+    },
+    "highlights": {
+      "title": "Solution Highlights",
+      "intelligence": {
+        "title": "Intelligent Operations",
+        "desc": "Achieve efficient logistics resource scheduling and optimization through AI algorithms and automation technology."
+      },
+      "visibility": {
+        "title": "Full Chain Visibility",
+        "desc": "Provide real-time monitoring and tracking from order generation to final delivery, ensuring transparency and reliability at every step."
+      },
+      "efficiency": {
+        "title": "Cost Reduction and Efficiency",
+        "desc": "Optimize transport and warehouse management, reduce logistics operational costs, and shorten delivery cycles."
+      },
+      "scalability": {
+        "title": "Flexible and Scalable",
+        "desc": "Support flexible deployment for multiple business scenarios and scales, adapting to various enterprise logistics needs."
+      },
+      "datadriven": {
+        "title": "Data-Driven Decision Making",
+        "desc": "Provide intelligent predictions and operational optimization suggestions based on real-time and historical data analysis."
+      }
+    },
+    "scenarios": {
+      "title": "Application Scenarios",
+      "ecommerce": "E-commerce Logistics: Support high-frequency order processing and delivery, optimize last-mile delivery.",
+      "supplychain": "Supply Chain Logistics: Efficiently integrate warehousing, transportation, and distribution links for full-chain collaboration.",
+      "coldchain": "Cold Chain Logistics: Ensure end-to-end temperature control and tracking, guaranteeing safe delivery of fresh food and pharmaceuticals.",
+      "crossborder": "Cross-border Logistics: Integrate land, sea, and air transportation, providing fully traceable cross-border logistics services."
+    },
+    "cta": {
+      "slogan": "Redefine Logistics Operations for Rapid Business Growth!",
+      "action": "Contact us to learn more about our intelligent logistics solutions and jointly create a new era of efficient, intelligent logistics management."
+    }
+  },
+  "about_zetra": {
+    "hero": {
+      "title": "Innovation Leader in Smart Logistics",
+      "subtitle": "Reshaping the Logistics Industry through Technology, Building a New Smart Supply Chain Ecosystem"
+    },
+    "intro": {
+      "title": "About Zetra",
+      "description": "Zetra is a technology innovation company focused on smart logistics solutions. We leverage artificial intelligence, IoT, and big data technologies to provide end-to-end intelligent logistics services. Since our establishment in 2020, we have been committed to driving the digital transformation of the logistics industry, helping enterprises build more efficient and intelligent supply chain systems."
+    },
+    "mission": {
+      "title": "Our Mission",
+      "description": "Drive intelligent upgrade of the logistics industry through cutting-edge technology innovation, create sustainable business value for customers, and achieve significant improvements in logistics operational efficiency."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "To become a global leader in smart logistics technology services, leading the logistics industry into a new era of intelligence."
+    },
+    "values": {
+      "title": "Core Values",
+      "items": [
+        {
+          "title": "Technological Innovation",
+          "description": "Continuous investment in R&D, leading the frontier of logistics technology"
+        },
+        {
+          "title": "Customer Value",
+          "description": "Customer-oriented approach, delivering excellence in smart logistics services"
+        },
+        {
+          "title": "Collaborative Success",
+          "description": "Partnering to build a smart logistics ecosystem together"
+        },
+        {
+          "title": "Green Development",
+          "description": "Promoting intelligent and sustainable development for green logistics transformation"
+        }
+      ]
+    },
+    "solutions": {
+      "title": "Intelligent Solutions",
+      "description": "Providing comprehensive smart logistics solutions to enable enterprise digital transformation",
+      "items": [
+        {
+          "title": "Smart Supply Chain Management Platform",
+          "description": "Integrating AI forecasting, intelligent scheduling, and inventory optimization for end-to-end supply chain visibility"
+        },
+        {
+          "title": "Smart Warehouse System",
+          "description": "Combining robotics and intelligent algorithms for efficient automated warehouse operations"
+        },
+        {
+          "title": "Intelligent Logistics Distribution",
+          "description": "Utilizing big data analytics and AI route planning for optimized delivery efficiency"
+        }
+      ]
+    },
+    "stats": {
+      "title": "Achievements",
+      "items": [
+        {
+          "number": "200+",
+          "label": "Enterprise Clients Served"
+        },
+        {
+          "number": "45%",
+          "label": "Average Efficiency Improvement"
+        },
+        {
+          "number": "18+",
+          "label": "Countries Worldwide"
+        }
+      ]
+    },
+    "future": {
+      "title": "Looking Forward",
+      "description": "Zetra will continue to deepen its focus in the smart logistics field, increasing investment in cutting-edge technologies such as artificial intelligence, robotics, and IoT. We are committed to building a smarter and more efficient logistics ecosystem, driving the industry towards digitalization and intelligence. Through technological innovation and service upgrades, we help more enterprises achieve smart logistics transformation and jointly create an intelligent future for the logistics industry."
+    }
+  },
+  "historyToday": {
+    "title": "On This Day in History",
+    "loading": "Loading...",
+    "noDescription": "No description available",
+    "year": "Year",
+    "controls": {
+      "previous": "Previous",
+      "next": "Next",
+      "play": "Play",
+      "pause": "Pause"
+    }
+  },
+  "CarouselHome":{
+    "slides": {
+      "lsm": {
+        "title": "Unlock the Power of Data-Driven Decisions",
+        "description": "Transform raw data into meaningful strategies and drive business growth with confidence."
+      },
+      "ls1": {
+        "title": "Smart Logistics Solutions",
+        "description": "Providing efficient, intelligent logistics solutions with real-time tracking, data visualization, and end-to-end optimization to accelerate delivery efficiency."
+      },
+      "scm1": {
+        "title": "Intelligent Supply Chain Management",
+        "description": "Achieve efficient coordination of logistics, warehousing, and transportation, real-time visualization tracking, and help businesses optimize supply chain processes to enhance overall operational efficiency."
+      },
+      "wh1": {
+        "title": "Efficient Warehouse Management Solutions",
+        "description": "Provide intelligent warehouse management, optimize space utilization, visualize real-time inventory, improve warehouse operation efficiency, and help businesses reduce costs and increase efficiency."
+      }
+    }
+  }
+}
