@@ -2,10 +2,12 @@
   "name": "cj-smart",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://ciby9833.github.io/Zetra-Vue-WEB/",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "deploy": "npm run build && gh-pages -d dist"
   },
   "dependencies": {
     "axios": "^1.7.8",
@@ -30,6 +32,7 @@
     "babel-loader": "^9.1.3",
     "eslint": "^7.32.0",
     "eslint-plugin-vue": "^8.0.3",
+    "gh-pages": "^6.2.0",
     "sass": "^1.83.0",
     "sass-loader": "^16.0.4",
     "thread-loader": "^3.0.4",
