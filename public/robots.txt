@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /admin      # 阻止抓取管理页面
+Allow: /              # 允许抓取所有页面
+Sitemap: https://example.com/sitemap.xml  # 指向站点地图文件
